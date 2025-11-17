@@ -36,4 +36,4 @@ stages:
       inputs:
         PathtoPublish: '$(Build.ArtifactStagingDirectory)'
         ArtifactName: 'terraform-manifests'
-        publishLocation: 'Container'  
+        publishLocation: 'Container'
